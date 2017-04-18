@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Zestaw5</string>
+
+    <string-array name="teleofny">
+        <item>Nokia 3310</item>
+        <item>LG G6</item>
+        <item>Samsung Galaxy s8</item>
+        <item>Huawei p10</item>
+    </string-array>
+
+    <string-array name="Nokia">
+        <item>Interfejs: Series 30 +</item>
+        <item>Procesor:Brak danych</item>
+        <item>Pamiec Ram:Brak danych</item>
+        <item>Bateria:Li-Ion 1200 mAh</item>
+        <item>Pamiec wbudowana:16MB, mozliwosc rozbudowy do 32 GB</item>
+    </string-array>
+
+    <string-array name="LG">
+        <item>System operacyjny:Android 7.1 Nougat </item>
+        <item>Procesor:Qualcomm Snapdragon 821 8996</item>
+        <item>Pamiec Ram:4 GB</item>
+        <item>Bateria:Li-Ion 3300 mAh</item>
+        <item>Pamiec wbudowana:32 GB, mozliwosc rozbudowy do 2TB</item>
+    </string-array>
+    <string-array name="Samsung">
+        <item>System operacyjny:Android 7.0 Nougat </item>
+        <item>Procesor:Samsung Exynos 8895</item>
+        <item>Pamiec Ram:4 GB</item>
+        <item>Bateria:Li-Ion 3000 mAh</item>
+        <item>Pamiec wbudowana:64 GB, mozliwosc rozbudowy do 256 GB</item>
+    </string-array>
+
+    <string-array name="Huawei">
+        <item>System operacyjny:Android 7.0 Nougat </item>
+        <item>Interfejs:EMUI 5.1</item>
+        <item>Procesor:HiSilicon Kirin 960</item>
+        <item>Pamiec Ram:4 GB</item>
+        <item>Bateria:Li-Ion 3200 mAh</item>
+        <item>Pamiec wbudowana:64 GB lub 128 GB, mozliwosc rozbudowy do 256 GB</item>
+    </string-array>
+</resources>
